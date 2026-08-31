@@ -15,7 +15,7 @@ Lenders lose money when borrowers default. This project looks at roughly 396,000
 
 ## SQL Analysis
 
-Six queries look at default rate by grade, purpose, term, income band, and home ownership, plus interest rate pricing by grade. Full queries are in [`sql/loan_default_queries.sql`](sql/loan_default_queries.sql).
+Six queries look at default rate by grade, purpose, term, income band, and home ownership, plus interest rate pricing by grade. Full queries are in [`sql/loan_default_queries.sql`](loan_default_queries.sql).
 
 **What the data shows:**
 - Default rate rises sharply as grade drops from A to G — G-grade loans default several times more often than A-grade loans.
