@@ -24,7 +24,7 @@ Six queries look at default rate by grade, purpose, term, income band, and home 
 
 ## Dashboard
 
-![Loan Default Dashboard](charts/dashboard_screenshot.png)
+![Loan Default Dashboard](dashboard_screenshot.png)
 
 [View the interactive dashboard on Looker Studio](https://datastudio.google.com/reporting/fd913507-4f62-42f2-9a04-52acb644d72b)
 
@@ -45,7 +45,7 @@ Full notebook: [`notebooks/loan_default_model.ipynb`](notebooks/loan_default_mod
 
 ### Top features driving default
 
-See [`charts/feature_importance.html`](charts/feature_importance.html) for the full ranking. Interest rate, grade/sub-grade, and debt-to-income ratio come out as the strongest predictors, which fits the SQL findings above.
+See [`charts/feature_importance.html`](feature_importance.html) for the full ranking. Interest rate, grade/sub-grade, and debt-to-income ratio come out as the strongest predictors, which fits the SQL findings above.
 
 ## Key Insights
 
