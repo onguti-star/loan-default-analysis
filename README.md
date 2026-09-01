@@ -24,7 +24,7 @@ Six queries look at default rate by grade, purpose, term, income band, and home 
 
 ## Dashboard
 
-![Loan Default Dashboard](Screenshot%20from%202026-08-31%2019-53-27.png)
+![Loan Default Dashboard](https://github.com/onguti-star/loan-default-analysis/blob/2ab712ab32d58a4d409eb9c857df12aebe798d38/dashboard_screenshot.png/Screenshot%20from%202026-08-31%2019-53-27.png)
 
 [View the interactive dashboard on Looker Studio](https://datastudio.google.com/reporting/fd913507-4f62-42f2-9a04-52acb644d72b)
 
