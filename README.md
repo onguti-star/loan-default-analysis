@@ -24,7 +24,7 @@ Six queries look at default rate by grade, purpose, term, income band, and home 
 
 ## Dashboard
 
-![Loan Default Dashboard](Screenshot from 2026-08-31 19-53-27.png)
+![Loan Default Dashboard](/Screenshot%20from%202026-08-31%2019-53-27.png)
 
 [View the interactive dashboard on Looker Studio](https://datastudio.google.com/reporting/fd913507-4f62-42f2-9a04-52acb644d72b)
 
